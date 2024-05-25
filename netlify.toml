@@ -1,0 +1,22 @@
+[build]
+  command = "CI= npm run build"
+  publish = "build"
+  
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  headers = { Access-Control-Allow-Origin = "*" }
+
+[[redirects]]
+  from = "/"
+  to = "https://i.postimg.cc/"
+  status = 200
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "*"
+
+[images]
+  remote_images = ["https://i.postimg.cc/.*"]
