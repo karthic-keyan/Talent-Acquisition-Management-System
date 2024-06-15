@@ -8,7 +8,7 @@ Tech Stack:
   <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/mui.png" alt="Material UI" width="100" height="100" style="margin-right: 10px;">
   <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/html.jpg" alt="JavaScript" width="100" height="100" style="margin-right: 10px;">
   <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/js.webp" alt="HTML" width="100" height="100" style="margin-right: 10px;">
-  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/css.png" alt="CSS" width="100" height="100" style="margin-right: 10px;">
+  <img src="[https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/css.png](https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/css.jpg)" alt="CSS" width="100" height="100" style="margin-right: 10px;">
 </div>
 
 ### Components and Features
