@@ -5,23 +5,18 @@ This admin panel is built using React and is designed to help HR employees manag
 Tech Stack:
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/react.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px;">React</span>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://material-ui.com/static/logo_raw.svg" alt="Material UI" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px;">Material UI</span>
+  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/mui.png" alt="Material UI" width="40" height="40" style="margin-right: 10px;">
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px;">JavaScript</span>
+  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/html.jpg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px;">HTML</span>
+  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/js.webp" alt="HTML" width="40" height="40" style="margin-right: 10px;">
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;">
-  <span style="font-size: 20px;">CSS</span>
+  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/css.png" alt="CSS" width="40" height="40" style="margin-right: 10px;">
 </div>
 
 ### Components and Features
