@@ -1,72 +1,68 @@
-# Getting Started with Create React App
+### Admin Panel Description
 
-Deployed site --> https://stellular-sunshine-a9fd68.netlify.app/
+This admin panel is built using React and is designed to help HR employees manage the recruitment process effectively. Contributions are welcome to enhance and improve the features and functionalities. Here’s a detailed description of its components and features:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Components and Features
 
-## Available Scripts
+1. **Header Section:**
+   - Contains the logo on the left and icons for search, notifications, user profile, and settings on the right.
+   - A search bar for quick access to different modules and data.
 
-In the project directory, you can run:
+2. **Sidebar Navigation:**
+   - Located on the left side, it includes icons for various modules such as dashboard, candidates, applications, interviews, and settings.
 
-### `npm start`
+3. **Main Content Area:**
+   - **Dashboard Overview:**
+     - **Applications Info:**
+       - Displays a graph showing the status of applications (Received vs. Processed) across different pages (Page A to Page F).
+     - **New Assessments:**
+       - Shows the count of new assessments (33) with a visual of a clipboard and a character illustration.
+       - A button labeled "VIEW DETAILS" for more information on new assessments.
+   - **Interviews Information:**
+     - **Today's Interviews:**
+       - Displays cards for interviews scheduled for the day.
+       - Each card includes:
+         - Candidate name (e.g., John Smith, Maria)
+         - Position applied for (e.g., Senior Python Developer)
+         - Date and time of the interview (e.g., 19th Feb 2024, 10:30 A.M)
+         - Interview details such as levels of interview, scores, and interviewer names.
+         - Options to reschedule or join the meeting via G-Meet.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. **Calendar Widget:**
+   - Located at the bottom right, it shows the current month with the current date highlighted.
+   - Provides navigation to view upcoming events and a "View All" link for a comprehensive schedule.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features:
+- **Data Visualization:**
+  - The graph provides a visual representation of application statuses, helping HR employees track the progress of applications.
+- **Meeting Management:**
+  - The interview cards offer detailed information about each scheduled interview, including reschedule and join meeting options.
+- **User-Friendly Navigation:**
+  - The sidebar icons and search bar facilitate easy navigation through different modules and quick access to required information.
+- **Interactive Widgets:**
+  - The calendar widget helps keep track of dates and upcoming events efficiently.
 
-### `npm test`
+### Contributions:
+Contributions to this project are welcome! Whether it’s adding new features, improving existing functionalities, or fixing bugs, your input is valued. Feel free to fork the repository, make your changes, and submit a pull request. Together, we can make this admin panel even better.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### How to Contribute:
+1. **Fork the Repository:**
+   - Click on the 'Fork' button at the top right corner of the repository page.
+2. **Clone Your Fork:**
+   - Use the command `git clone <your-fork-url>` to clone the repository to your local machine.
+3. **Create a Branch:**
+   - Create a new branch for your feature or bug fix using `git checkout -b feature-name`.
+4. **Make Changes:**
+   - Implement your feature or fix the bug.
+5. **Commit and Push:**
+   - Commit your changes with a meaningful message and push to your fork using `git push origin feature-name`.
+6. **Submit a Pull Request:**
+   - Go to the original repository and click on 'New Pull Request' to submit your changes for review.
 
-### `npm run build`
+### Contact:
+For any questions or assistance, feel free to open an issue in the repository or contact the maintainers directly. Thank you for your contributions!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Deployment Preview:
+You can view the deployment preview of this admin panel using the following link: https://app.netlify.com/sites/chic-kataifi-30bf4c/overview 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please replace `<deployment-preview-link>` with the actual link to the deployment preview.
