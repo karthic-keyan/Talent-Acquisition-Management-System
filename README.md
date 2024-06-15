@@ -4,7 +4,7 @@ This admin panel is built using React and is designed to help HR employees manag
 
 Tech Stack:
 <div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
+  <img src="https://github.com/KarthiKey-Dev/image-storage/blob/main/TechStack/react.svg" alt="React" width="40" height="40" style="margin-right: 10px;">
   <span style="font-size: 20px;">React</span>
 </div>
 <div style="display: flex; align-items: center;">
